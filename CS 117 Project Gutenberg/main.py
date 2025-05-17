@@ -1,7 +1,7 @@
 """
 Book Search Tool
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Jeyden Alvarado
+Date: 2025-05-16
 
 A tool to search Project Gutenberg for a book, count frequent words, and save data locally.
 """
